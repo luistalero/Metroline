@@ -1,10 +1,12 @@
 *{
-    background-color: #e9d9d9;
+    background-color: #ffffff;
 }
-body{
+.dody{
+    flex-direction: row-reverse;
+    display: inline-flex;
     border: 1px solid black;
     width: 50%;
-    margin-left: 50px;
+    margin-left: 80px;
 }
 .container{
     padding: 30px;
